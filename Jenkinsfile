@@ -27,7 +27,7 @@ pipeline {
 
 
 
-                        sh 'python test.py' // Replace with your actual run command
+                        sh 'python3 test.py' // Replace with your actual run command
 
                 }
 
