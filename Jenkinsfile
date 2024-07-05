@@ -26,8 +26,7 @@ pipeline {
                 script {
 
 
-
-                        sh 'python3 test.py' // Replace with your actual run command
+                        sh 'echo "in build"' // Replace with your actual run command
 
                 }
 
